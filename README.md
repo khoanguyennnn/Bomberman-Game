@@ -62,7 +62,7 @@ This is our game project for our final lab in our Object-Oriented Programming co
 | Order | Task                                                     |  Person   | 
 | :---- | :------------------------------------------------------- | :-------: | 
 | 1     | Control Button,veiw,Design character                     | nhu quynh |
-| 2     | Control,veiw,Readme                                      | Thanh Thao|
+| 2     | Control,View,Readme                                      | Thanh Thao|
 | 3     | Entities, Model: Item class and MapItem class            | Mai Thi   |
 | 4     |  PowerPoint,Model:Boom, BoomBang                         | Van Hung  |
 | 5	|Player class, Boss class, Powerpoint	                   | Minh Khoa |
